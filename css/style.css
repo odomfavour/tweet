@@ -1,0 +1,28 @@
+.content {
+  margin: 100px 0;
+}
+
+label {
+  margin-top: 30px;
+}
+
+textarea {
+  width: 100%;
+
+}
+
+.btn-lg {
+  width: 100%;
+}
+
+footer {
+  background-color: rgb(53, 51, 51);
+  color: #fff;
+}
+
+.remove-tweet, .remove-tweet:hover {
+  float: right;
+  cursor: pointer;
+  color: red !important;
+  font-weight: bold;
+}
